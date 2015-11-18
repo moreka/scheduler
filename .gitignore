@@ -1,4 +1,4 @@
-# Created by https://www.gitignore.io/api/osx,python,latex,pycharm
+# Created by https://www.gitignore.io/api/osx,python,pycharm
 
 ### OSX ###
 .DS_Store
@@ -87,45 +87,6 @@ docs/_build/
 
 # PyBuilder
 target/
-
-
-### LaTeX ###
-*.acn
-*.acr
-*.alg
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.dvi
-*.fdb_latexmk
-*.fls
-*.glg
-*.glo
-*.gls
-*.idx
-*.ilg
-*.ind
-*.ist
-*.lof
-*.log
-*.lot
-*.maf
-*.mtc
-*.mtc0
-*.nav
-*.nlo
-*.out
-*.pdfsync
-*.ps
-*.run.xml
-*.snm
-*.synctex.gz
-*.toc
-*.vrb
-*.xdy
-*.tdo
-
 
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
